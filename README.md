@@ -8,6 +8,6 @@ the [University of Bologna](http://www.unibo.it/it).
 
 **Contributors:**
 
-[Filippo Serafini](https://github.com/filipposerafini)
+  * [Filippo Serafini](https://github.com/filipposerafini)
 
-[Alessandro Fusco](https://github.com/AFusco)
+  * [Alessandro Fusco](https://github.com/AFusco)
